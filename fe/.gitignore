@@ -1,4 +1,5 @@
 # exclude Library/Temp/Obj and sln files
-/u3d/
-!/u3d/Assets/
-!/u3d/ProjectSettings/
+/u3d/*
+!/u3d
+!/u3d/Assets
+!/u3d/ProjectSettings
